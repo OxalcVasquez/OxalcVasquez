@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/oxalcvasquez" target="blank"><img src="https://img.shields.io/twitter/follow/oxalcvasquez?logo=twitter&style=for-the-badge" alt="oxalcvasquez" /></a> </p>
 
-- 🔭 I’m currently working on **Devolpay**
+- 🔭 I’m currently working on **Banco Compartamos**
 
-- 🌱 I’m currently learning **Typescript,React, Flutter**
+- 🌱 I’m currently learning **Golang,React Native, AWS**
 
 - 📫 How to reach me **oxalc0101@gmail.com**
 
