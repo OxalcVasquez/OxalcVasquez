@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **oxalc0101@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jordan-oxalc-v%C3%A1squez-fern%C3%A1ndez-640a02154/](https://www.linkedin.com/in/jordan-oxalc-v%C3%A1squez-fern%C3%A1ndez-640a02154/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/oxalc/]([https://www.linkedin.com/in/jordan-oxalc-v%C3%A1squez-fern%C3%A1ndez-640a02154/](https://www.linkedin.com/in/oxalc/))
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
